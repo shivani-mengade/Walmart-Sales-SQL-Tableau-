@@ -20,4 +20,4 @@ The screenshot below represents the **Tableau dashboard** developed to visualize
 - **Customer Segmentation**  
   Pie charts showing distribution by **gender** and **customer type (members vs normal)** to better understand buyer demographics.
 
-This dashboard was created in **Tableau** and is included in the `/tableau` folder for interactive exploration.
+This dashboard was created in **Tableau** 
